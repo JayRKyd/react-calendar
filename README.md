@@ -1,4 +1,8 @@
-# Optimization
+# Final project design
+<img src="react.gif" width="100%"  alt="bloggist website"/>
+
+
+## Optimization
 
 * Migrate and restructure redux code into using Redux toolkit
 * Add an edit button so that users can edit reminders
